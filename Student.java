@@ -1,7 +1,7 @@
 public class Student {
     public static void main(String[] args) {
         String sname = "AJAY";
-        String course = "DEVOPS"; 
+        String course = "JAVA"; 
         System.out.println("LEARN HERE AND LEAD ANYWHERE!!!");
         System.out.println("My Name is: " + sname);
         System.out.println("My Course is: " + course);
